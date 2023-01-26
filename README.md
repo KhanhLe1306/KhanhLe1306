@@ -1,4 +1,6 @@
-### :hammer_and_wrench: Languages and Tools :
+<p align="center">
+  ### :hammer_and_wrench: Languages and Tools :
+</p>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -23,7 +25,9 @@
 </div>
 
 
+<!-- break point -->
+##
 
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KhanhLe1306&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+<a href="www.github.com/nulzo"><img src="https://streak-stats.demolab.com?user=KhanhLe1306&border_radius=3&fire=FF6B6B&background=292F36&stroke=FFFFFF&ring=FFFFFF&currStreakNum=4ECDC4&sideNums=DDDDDD&currStreakLabel=FF6B6B&sideLabels=CDCDCD&dates=4ECDC4" alt="Khanh Le Stats" /></a>
+</p>
