@@ -41,3 +41,7 @@
 <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=435&lines=Total+Page+Visitors" alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+<a href="https://hits.sh/github.com/KhanhLe1306/hits/"><img alt="Hits" src="https://hits.sh/github.com/nulzo/hits.svg?style=for-the-badge&label=Profile%20Views&color=FF6B6B&labelColor=292F36" /></a>
+</p>
