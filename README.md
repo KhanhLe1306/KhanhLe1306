@@ -1,6 +1,6 @@
 ### :hammer_and_wrench: Languages and Tools :
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;justify-content: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -27,6 +27,6 @@
 
 ### :fire: My Stats :
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;justify-content: center;">
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KhanhLe1306&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
